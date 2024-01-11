@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**CT-Araujo/CT-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Seja bem vindo ao meu perfil!! me chamo Cleiton Araujo.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
