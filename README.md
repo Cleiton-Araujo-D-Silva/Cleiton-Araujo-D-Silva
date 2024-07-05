@@ -1,5 +1,5 @@
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CT-Araujo&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Cleiton_Araujo_D_Silva&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CT-Araujo&layout=donut&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ##
 ### Linguagens conhecidas: 
